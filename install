@@ -1,0 +1,8 @@
+
+# 安装scipy时出现问题
+sudo apt-get install libblas-dev liblapack-dev libatlas-base-dev gfortran
+
+
+sudo apt-get install libpng-dev libjpeg8-dev libfreetype6-dev
+
+
